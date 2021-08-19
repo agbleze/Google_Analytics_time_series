@@ -1,0 +1,14 @@
+name: GA-Analytics
+title: GA-Analytics
+username:
+account: agbleze
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4509120
+bundleId: 4942073
+url: https://agbleze.shinyapps.io/GA-Analytics/
+when: 1629393353.54369
+lastSyncTime: 1629393353.54371
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: GA_Timeseries_forecasting.R
